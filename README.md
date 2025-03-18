@@ -10,11 +10,11 @@
 ### 📡 **아직은 없지만...**   
 
 ### 🏗 **빅데이터 & NoSQL**  
-📊 빅데이터 처리 (Hadoop, Spark, Kafka)  
-🗃 NoSQL 데이터베이스 (MongoDB, Redis, OpenSearch)  
+📊 빅데이터 처리
+🗃 NoSQL 데이터베이스 
 
 ### ⚙️ **백엔드 & 프로그래밍**  
-☕ Java & Spring Boot (Spring Cloud, Spring Security, JWT)  
+☕ Java & Spring Boot
 🐍 Python
 
 ## 📈 GitHub 활동(연습)  
