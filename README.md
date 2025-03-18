@@ -27,8 +27,7 @@
 ✅ 여기있는 모든 학우 여러분과 동반성장 
 
 ## 🌎 나와 연결하기  
-🔹 [Facebook](#) | [Instagram](#) | [LinkedIn](#)  
-
+🔹[Instagram](#)
 ## 📧 연락처  
 📩 **이메일:** daehyeonj41@gmail.com  
 📍 **위치:** 고양시, 대한민국  
