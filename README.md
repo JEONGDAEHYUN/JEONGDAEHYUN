@@ -21,8 +21,8 @@
 ![코딩 테스트]https://github.com/JEONGDAEHYUN/myjava.git
 
 📊 **한이음 프로젝트**  
-🔹 한이음 프로젝트(곁봄 프로젝트)
-🔹 **서류 통과 기사자료 ==>** https://www.gosiweek.com/article/1065576047169099
+🔹 한이음 프로젝트(곁봄 프로젝트)<br>
+🔹 서류 통과 기사자료 ==> [기사 보기](https://www.gosiweek.com/article/1065576047169099)
 
 ## 🎯 2025년 목표  
 ✅ 모든 학우들과 동반성장 
